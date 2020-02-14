@@ -1,0 +1,41 @@
+﻿body
+{
+    background-image:url("../html/have.jpg");
+    background-color:cadetblue
+}
+input {
+    padding: 5px;
+    padding-right: 25px;
+    margin-bottom: 8px;
+    color: darkslategray;
+    border-radius: 5px;
+}
+sup, label {
+    color: lemonchiffon;
+    font-size: 18px;
+}
+
+div {
+    width: 400px;
+    height: 600px;
+    float: right;
+}
+button:hover {
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+h1 {
+    color: indianred;
+    font-size: 56px;
+}
+h4 {
+    color: aquamarine;
+}
+
+h2 {
+    color:antiquewhite;
+    text-align: right;
+    font-size: 30px;
+    margin-right:400px;
+    margin-top:80px;
+}
